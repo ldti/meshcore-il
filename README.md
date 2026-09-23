@@ -2,7 +2,7 @@
 
 Community guide for configuring MeshCore devices with our shared custom frequency and network settings.
 
-## Welcome to MeshCore IL 🇮🇱
+## Welcome to MeshCore IL
 
 This guide explains how to set up your device to join the MeshCore IL community mesh network. MeshCore is an alternative mesh routing protocol that offers efficient communication over LoRa radios.
 
