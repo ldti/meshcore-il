@@ -44,7 +44,7 @@ Please ensure your device matches these exact parameters to join the network:
 | **Region** | **Custom** |
 | **Frequency** | **917.525 MHz** |
 | **Bandwidth** | **62.5 kHz** |
-| **Spreading Factor** | **8** |
+| **Spreading Factor** | **7** |
 | **Coding Rate** | **5** |
 
 **Repeater Note:** If your device is unable to detect existing repeaters, consider deploying a repeater in a high-elevation location to ensure it can receive advertisements from other network nodes.
