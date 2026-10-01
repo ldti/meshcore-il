@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meshcore.org.il/sitemap.xml

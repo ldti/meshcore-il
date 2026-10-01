@@ -1,3 +1,10 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO Settings
+title: MeshCore Israel – Community LoRa Mesh Network
+description: Official community guide for MeshCore Israel. Learn how to flash your LoRa device and join the MeshCore IL mesh network on 917.525 MHz.
+url: "https://meshcore.org.il"

@@ -44,7 +44,7 @@ Please ensure your device matches these exact parameters to join the network:
 | **Region** | **Custom** |
 | **Frequency** | **917.525 MHz** |
 | **Bandwidth** | **62.5 kHz** |
-| **Spreading Factor** | **8** |
+| **Spreading Factor** | **7** |
 | **Coding Rate** | **5** |
 
 **Repeater Note:** If your device is unable to detect existing repeaters, consider deploying a repeater in a high-elevation location to ensure it can receive advertisements from other network nodes.
@@ -70,3 +70,20 @@ MeshCore runs on similar hardware to Meshtastic. Here are some popular choices:
 Join the MeshCore IL community for support, updates, and discussions:
 
 [**Join MeshCore IL WhatsApp Group**](https://chat.whatsapp.com/H57uPbyIYE5D1miPTFXRjT?s=cl&p=a&ilr=1)
+
+
+---
+
+### ❓ Frequently Asked Questions (FAQ)
+
+**How do I join the MeshCore community in Israel?**
+To join MeshCore Israel, you need a compatible LoRa device (like the Seeed Wio Tracker or Heltec V4), flash it with the MeshCore Companion firmware, and set your radio frequency to **917.525 MHz**.
+
+**Is the 917.525 MHz frequency legal in Israel?**
+Yes, this frequency falls within the standard ISM band (915–928 MHz) allocated for low-power devices in Israel. However, always follow local regulations and use your device responsibly.
+
+**What is the difference between Companion and Repeater firmware?**
+Companion firmware is for portable devices used with a phone. Repeater firmware is for stationary nodes placed in high locations to extend the network range for everyone.
+
+**Where can I find other MeshCore users in Israel?**
+The best way to connect is through our community WhatsApp group (link above).
